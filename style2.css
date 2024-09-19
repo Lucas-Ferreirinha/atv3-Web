@@ -1,0 +1,44 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    align-items: center;
+    width: 98%;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+#logo{
+    font-size:larger;
+    width: 20%;
+    
+}
+#menu{
+    font-size: medium;
+    width: 70%;
+    text-align: end;
+}
+.texto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#paragrafinho{
+    font-size: medium;
+}
+#titulozinho{
+    font-size: large;
+}
+#conteudo{
+    display: flex;
+}
+#escrito{
+    width: 50%;
+}
+#imagem{
+    width: 50%;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 80%;
+}
